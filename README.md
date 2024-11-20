@@ -15,11 +15,6 @@ Specializing in casual and engaging gaming experiences, Press Play has developed
 
 Press Play focuses on creating accessible games that captivate users, offering tailored experiences across Web2 and Web3 platforms.
 
-### Press Play Key Highlights:
-- **Casual Mini-Games:** Designed for mass adoption with seamless Web3 integration.Telegram’s 'Mini-Apps' enable users to interact and complete on chain transactions directly in-app, quietly onboarding millions into crypto.
-- **Rapid Development:** Have your own game ready in just two weeks.
-- **Community Building:** Gamification drives vibrant, active communities on Telegram, tapping into its 1 billion+ users.
-
 ### Game Concept: *Qubic - Alien Tech Rescue*
 In this digital realm, players must tap to send signals to alien tech for rescue missions, earning $Qubic tokens as rewards. Players will progress by completing tasks, leveling up, and unlocking exclusive content.
 
