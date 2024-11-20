@@ -28,9 +28,9 @@ In this digital realm, players must tap to send signals to alien tech for rescue
 ## Proposed Deliverables
 The following items will be delivered as part of the Qubic Mini-Game development:
 1. **Game Production:** 
-   - Game concept and logic.
-   - Frontend and backend development.
-   - Infrastructure setup and deployment.
+   - Game concept and logic
+   - Frontend and backend development
+   - Infrastructure setup and deployment
 2. **Initial Marketing Integration:** Qubic-branded assets, tasks, and missions.
 3. **Initial Community Engagement:** Initial user base from our existing network.
 
@@ -54,18 +54,18 @@ Includes:
 
 **New Users:**
 - Budget from $5K: starting at $0.10 per user (100K+ users incoming)
-- Larger budgets ($30K+): We can push the price down per user!
-- For bigger volumes, we’ll hook you up with API integration for better conversion.
+- Larger budgets ($30K+): Price can be pushed down per user
+- For bigger volumes, we’ll hook you up with API integration for better conversion
 - High Value Users/Followers : Finish complex tasks (ex. create wallet, register in app, etc.) Budget from $0.5/user
-- Join a Network of +40 Partners!: We can manage collaboration with other games in our network and grow even faster.
--Specialized KOL campaign:  We can manage Tap2Earn KOLs that spread the word in crypto communities
+- Join a Network of +40 Partners: We can manage collaboration with other games in our network and grow even faster
+- Specialized KOL campaign:  We can manage Tap2Earn KOLs that spread the word in crypto communities
  
 ## Milestones and Grant Distribution
 To ensure timely and structured delivery, the project is divided into the following milestones:
 
 ### Kick Off: Definition and Setup (30% of the project grant advanced)
-- Establish Communication Channels.
-- Team Creation and Project Organization.
+- Establish Communication Channels
+- Team Creation and Project Organization
 
 **Amount Unlocked:** $7,500 USD
 
@@ -76,8 +76,8 @@ This phase focuses on planning and defining the game logic, story, as well as th
 
 - Implement game mechanics
 - Implement game desing and characters
-- Define core game logic.
-- Define the project scope and finalize requirements.
+- Define core game logic
+- Define the project scope and finalize requirements
 
 **Amount Unlocked:** $5,000 USD
 
@@ -87,11 +87,11 @@ This phase focuses on planning and defining the game logic, story, as well as th
 
 This phase focuses on desing the user interface and the development of the game frontend and backend. 
 
-- Design the user interface and backend architecture.
-- Set up the development environment.
+- Design the user interface and backend architecture
+- Set up the development environment
 - Develop Telegram Game FrontEnd
 - Develop Telegram Game BackEnd
-- Initial deployment on test environments.
+- Initial deployment on test environments
 
 **Amount Unlocked:** $5,000 USD
 
@@ -101,11 +101,11 @@ This phase focuses on desing the user interface and the development of the game 
 
 This phase focuses on Qubic Wallet Integration, the Frotn and BackEnd integration, Testing & Go Live. 
 
-- Integrate Qubic wallet and branding assets.
+- Integrate Qubic wallet and branding assets
 - FrontEnd & BackEnd integration
-- Conduct full-scale testing and optimizations.
+- Conduct full-scale testing and optimizations
 - Security audits
-- Go-live preparations.
+- Go-live preparations
 
 **Amount Unlocked:** $7,500 USD
 
