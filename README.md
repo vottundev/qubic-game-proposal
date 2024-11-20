@@ -1,7 +1,6 @@
 # Qubic Mini-Game Proposal
 
 ## Context for Qubic
-## Context for Qubic
 
 Qubic represents the forefront of technological evolution, leveraging innovative strategies like gamification to seamlessly onboard users into the Web3 ecosystem. With its commitment to pushing the boundaries of blockchain adoption, Qubic seeks to increase the number of active users and on-chain wallets while driving a significant rise in transaction volumes within its ecosystem.
 
@@ -16,17 +15,10 @@ Specializing in casual and engaging gaming experiences, Press Play has developed
 
 Press Play focuses on creating accessible games that captivate users, offering tailored experiences across Web2 and Web3 platforms.
 
-### New trending marketing and community growth :
-- **Seamless Web3 Integration:** Telegram’s 'Mini-Apps' enable users to interact and complete on chain transactions directly in-app, quietly onboarding millions into crypto.
-- **Web3 Marketing Revolution:** These apps use gamification to drive growth, building vibrant, active communities far beyond traditional marketing.
-- **Access a Massive User Base:** Tap into Telegram’s 1 billion+ users to rapidly grow your app or game with minimal friction.
-
 ### Press Play Key Highlights:
 - **Casual Mini-Games:** Designed for mass adoption with seamless Web3 integration.Telegram’s 'Mini-Apps' enable users to interact and complete on chain transactions directly in-app, quietly onboarding millions into crypto.
 - **Rapid Development:** Have your own game ready in just two weeks.
 - **Community Building:** Gamification drives vibrant, active communities on Telegram, tapping into its 1 billion+ users.
-
-
 
 ### Game Concept: *Qubic - Alien Tech Rescue*
 In this digital realm, players must tap to send signals to alien tech for rescue missions, earning $Qubic tokens as rewards. Players will progress by completing tasks, leveling up, and unlocking exclusive content.
@@ -44,8 +36,8 @@ The following items will be delivered as part of the Qubic Mini-Game development
    - Game concept and logic.
    - Frontend and backend development.
    - Infrastructure setup and deployment.
-2. **Marketing Integration:** Qubic-branded assets, tasks, and missions.
-3. **Community Engagement:** Initial user base from our existing network.
+2. **Initial Marketing Integration:** Qubic-branded assets, tasks, and missions.
+3. **Initial Community Engagement:** Initial user base from our existing network.
 
 ## Economic Proposal
 **Total Cost:** $25,000 USD  
