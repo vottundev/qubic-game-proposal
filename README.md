@@ -1,15 +1,32 @@
 # Qubic Mini-Game Proposal
 
-## About Press Play Games
-Press Play Games is a dynamic Telegram Mini-Game studio created by Vottun. We specialize in building engaging and accessible games that captivate users, offering tailored experiences across Web2 and Web3 platforms.
+## Context for Qubic
+## Context for Qubic
 
-### Key Highlights:
-- **Casual Mini-Games:** Designed for mass adoption with seamless Web3 integration.
+Qubic represents the forefront of technological evolution, leveraging innovative strategies like gamification to seamlessly onboard users into the Web3 ecosystem. With its commitment to pushing the boundaries of blockchain adoption, Qubic seeks to increase the number of active users and on-chain wallets while driving a significant rise in transaction volumes within its ecosystem.
+
+Our tailored mini-game concept aligns perfectly with Qubic’s vision and community goals. By offering an engaging and rewarding experience, the game will serve as a powerful tool to attract users, immerse them in the Qubic ecosystem, and promote interaction with
+
+## About Press Play Games
+Press Play is a dynamic Telegram Mini Game studio created by Vottun. 
+
+Vottun is a Web3 dev tool platform that has build a community aimed at bringing the next billion users to Web3.
+
+Specializing in casual and engaging gaming experiences, Press Play has developed a variety of high-quality, successful mini-apps.
+
+Press Play focuses on creating accessible games that captivate users, offering tailored experiences across Web2 and Web3 platforms.
+
+### New trending marketing and community growth :
+- **Seamless Web3 Integration:** Telegram’s 'Mini-Apps' enable users to interact and complete on chain transactions directly in-app, quietly onboarding millions into crypto.
+- **Web3 Marketing Revolution:** These apps use gamification to drive growth, building vibrant, active communities far beyond traditional marketing.
+- **Access a Massive User Base:** Tap into Telegram’s 1 billion+ users to rapidly grow your app or game with minimal friction.
+
+### Press Play Key Highlights:
+- **Casual Mini-Games:** Designed for mass adoption with seamless Web3 integration.Telegram’s 'Mini-Apps' enable users to interact and complete on chain transactions directly in-app, quietly onboarding millions into crypto.
 - **Rapid Development:** Have your own game ready in just two weeks.
 - **Community Building:** Gamification drives vibrant, active communities on Telegram, tapping into its 1 billion+ users.
 
-## Context for Qubic
-Qubic represents the forefront of tech evolution, leveraging gamification to onboard users into Web3. Our tailored game concept for Qubic aligns with its vision and community.
+
 
 ### Game Concept: *Qubic - Alien Tech Rescue*
 In this digital realm, players must tap to send signals to alien tech for rescue missions, earning $Qubic tokens as rewards. Players will progress by completing tasks, leveling up, and unlocking exclusive content.
@@ -40,58 +57,76 @@ Includes:
 
 **Additional Services (Optional):**
 - Platform maintenance: $550/month for up to 100,000 users.
-- Custom development: $87/hour.
+  - For every additional 100,000 users → 550 USD / month
+  - From 1M users onwards – 10% discount – (Starting at 4,950 USD / month)
 
+- Custom development: $87/hour.
+  - Extra development: 40-hour packages (87 USD / hour) → 3,480 USD
+
+- Account manager for operating the game: 2.000 USD /month
+
+**New Users:**
+- Budget from $5K: starting at $0.10 per user (100K+ users incoming)
+- Larger budgets ($30K+): We can push the price down per user!
+- For bigger volumes, we’ll hook you up with API integration for better conversion.
+- High Value Users/Followers : Finish complex tasks (ex. create wallet, register in app, etc.) Budget from $0.5/user
+- Join a Network of +40 Partners!: We can manage collaboration with other games in our network and grow even faster.
+-Specialized KOL campaign:  We can manage Tap2Earn KOLs that spread the word in crypto communities
+ 
 ## Milestones and Grant Distribution
 To ensure timely and structured delivery, the project is divided into the following milestones:
 
-### Milestone 1: Definition and Setup (10% of grant)
-- Define the project scope and finalize requirements.
-- Design the user interface and backend architecture.
-- Set up the development environment.
-
-**Amount Unlocked:** $2,500 USD
-
----
-
-### Milestone 2: Core Development (50% of grant)
-- Implement game mechanics, animations, and core logic.
-- Integrate backend systems for user progression and transactions.
-- Initial deployment on test environments.
-
-**Amount Unlocked:** $12,500 USD
-
----
-
-### Milestone 3: Integration & Testing (30% of grant)
-- Integrate Qubic wallet and branding assets.
-- Conduct full-scale testing and optimizations.
-- Security audits and go-live preparations.
+### Kick Off: Definition and Setup (30% of the project grant advanced)
+- Establish Communication Channels.
+- Team Creation and Project Organization.
 
 **Amount Unlocked:** $7,500 USD
 
 ---
 
-### Milestone 4: Launch and Community Engagement (10% of grant)
-- Deploy the game and monitor performance.
-- Engage users with promotional campaigns.
-- Deliver final analytics and project wrap-up.
+### Milestone 1: Definition and Setup (20% of grant)
+This phase focuses on planning and defining the game logic, story, as well as the game design.
 
-**Amount Unlocked:** $2,500 USD
+- Implement game mechanics
+- Implement game desing and characters
+- Define core game logic.
+- Define the project scope and finalize requirements.
+
+**Amount Unlocked:** $5,000 USD
 
 ---
 
-## Payment Terms
-- 50% upfront and 50% upon game delivery to the UAT environment.
+### Milestone 2: Core Development (20% of grant)
+
+This phase focuses on desing the user interface and the development of the game frontend and backend. 
+
+- Design the user interface and backend architecture.
+- Set up the development environment.
+- Develop Telegram Game FrontEnd
+- Develop Telegram Game BackEnd
+- Initial deployment on test environments.
+
+**Amount Unlocked:** $5,000 USD
+
+---
+
+### Milestone 3: Integration & Testing (30% of grant)
+
+This phase focuses on Qubic Wallet Integration, the Frotn and BackEnd integration, Testing & Go Live. 
+
+- Integrate Qubic wallet and branding assets.
+- FrontEnd & BackEnd integration
+- Conduct full-scale testing and optimizations.
+- Security audits
+- Go-live preparations.
+
+**Amount Unlocked:** $7,500 USD
+
+---
+
+## Payment Terms &  Considerations
 - Maintenance and support costs start after delivery.
-
-## Next Steps
-We are excited to bring this project to life and collaborate with the Qubic community! Let’s kick off this journey together.
-
-For further inquiries:
-- Visit us at [Press Play Games](https://pressplay.games/)
-- Contact: mvalles@vottun.com
-
----
+- The game's operational logic estimation is based on previous Tap2Earn experience and is already predefined. If changes to the game mechanics are requested, these must be defined, considered, and estimated separately.
+- This proposal is valid for 15 days from the date of issue.
 
 **Join the gaming revolution with Qubic today!**
