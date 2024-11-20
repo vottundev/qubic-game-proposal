@@ -116,4 +116,5 @@ This phase focuses on Qubic Wallet Integration, the Frotn and BackEnd integratio
 - The game's operational logic estimation is based on previous Tap2Earn experience and is already predefined. If changes to the game mechanics are requested, these must be defined, considered, and estimated separately.
 - This proposal is valid for 15 days from the date of issue.
 
-**Join the gaming revolution with Qubic today!**
+
+## Join the gaming revolution with Qubic today!
