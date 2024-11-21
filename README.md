@@ -7,23 +7,25 @@ Qubic represents the forefront of technological evolution, leveraging innovative
 Our tailored mini-game concept aligns perfectly with Qubic’s vision and community goals. By offering an engaging and rewarding experience, the game will serve as a powerful tool to attract users, immerse them in the Qubic ecosystem, and promote interaction with
 
 ## About Press Play Games
-Press Play is a dynamic Telegram Mini Game studio created by Vottun. 
+Press Play is a dynamic Telegram Mini Game studio created by Vottun.
 
-Vottun is a Web3 dev tool platform that has build a community aimed at bringing the next billion users to Web3.
-
-Specializing in casual and engaging gaming experiences, Press Play has developed a variety of high-quality, successful mini-apps.
-
-Press Play focuses on creating accessible games that captivate users, offering tailored experiences across Web2 and Web3 platforms.
+Vottun is a Web3 dev tool platform that has built a community of developers that is already building for the Qubic ecosystem. 
 
 ### Game Concept: *Qubic - Alien Tech Rescue*
-In this digital realm, players must tap to send signals to alien tech for rescue missions, earning $Qubic tokens as rewards. Players will progress by completing tasks, leveling up, and unlocking exclusive content.
+
+**GOALS:**
+1) Attract new users that learn about Qubic ecosystem playing a casual “Tap2Earn” game” 
+2) These new users will creates Qubic wallets to receive Qubic airdrop tokens, increasing Qubic on-chain metrics related to new wallet creation. 
+
+**STORYTELLING:**
+In this digital realm, players must tap to send signals to Qubic alien tech to increase the level of Earth technology, in order to be successful players need to interact with a activities that present info about Qubic and its ecosystem, earning $Qubic tokens as rewards for its commitment and points received. Players will progress by completing tasks, such creating new Qubic wallet, leveling up, and unlocking exclusive activities.
 
 ## Game Features
 1. **Tap-to-Earn Mechanic:** Earn rewards by tapping to send signals to aliens.
 2. **Activities & Missions:** Engage in social quests and complete limited-time challenges.
 3. **Progression System:** Level up to unlock abilities, skins, and larger rewards.
-4. **Crypto Integration:** Provide wallets to all players for seamless $Qubic transactions.
-5. **Customizable Tasks:** Qubic-themed quests, skins, and special cards to enhance the experience.
+4. **Crypto Integration:** Users need to create Qubic wallets to receive $Qubic airdrop.
+5. **Customizable Tasks:** Qubic-themed quests, such as special cards to enhance the experience.
 
 ## Proposed Deliverables
 The following items will be delivered as part of the Qubic Mini-Game development:
@@ -32,7 +34,6 @@ The following items will be delivered as part of the Qubic Mini-Game development
    - Frontend and backend development
    - Infrastructure setup and deployment
 2. **Initial Marketing Integration:** Qubic-branded assets, tasks, and missions.
-3. **Initial Community Engagement:** Initial user base from our existing network.
 
 ## Economic Proposal
 **Total Cost:** $25,000 USD  
@@ -42,15 +43,17 @@ Includes:
 - Deployment and QA.
 - Post-launch support.
 
-**Additional Services (Optional):**
+**Put in Production:**
+- Recommended package of 3 months for running a successful campaign
 - Platform maintenance: $550/month for up to 100,000 users.
   - For every additional 100,000 users → 550 USD / month
   - From 1M users onwards – 10% discount – (Starting at 4,950 USD / month)
+  - 
+- Account manager for operating the game: 2.000 USD /month
 
+**Additional Services (Optional):**
 - Custom development: $87/hour.
   - Extra development: 40-hour packages (87 USD / hour) → 3,480 USD
-
-- Account manager for operating the game: 2.000 USD /month
 
 **New Users:**
 - Budget from $5K: starting at $0.10 per user (100K+ users incoming)
@@ -108,6 +111,17 @@ This phase focuses on Qubic Wallet Integration, the Frotn and BackEnd integratio
 - Go-live preparations
 
 **Amount Unlocked:** $5,000 USD
+
+---
+
+### Milestone 4: Go LIVE
+
+This phase focuses onmanaging the game for the first three months. 
+
+- Payment of the first three months of licence (1,650 USD)
+- Payment of thr first three months of Account Management (6,000 USD)
+
+**Amount Unlocked:** $7,650 USD
 
 ---
 
