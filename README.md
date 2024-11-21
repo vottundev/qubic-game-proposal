@@ -83,7 +83,7 @@ This phase focuses on planning and defining the game logic, story, as well as th
 
 ---
 
-### Milestone 2: Core Development (20% of grant)
+### Milestone 2: Core Development (30% of grant)
 
 This phase focuses on desing the user interface and the development of the game frontend and backend. 
 
@@ -93,7 +93,7 @@ This phase focuses on desing the user interface and the development of the game 
 - Develop Telegram Game BackEnd
 - Initial deployment on test environments
 
-**Amount Unlocked:** $5,000 USD
+**Amount Unlocked:** $7,500 USD
 
 ---
 
@@ -107,7 +107,7 @@ This phase focuses on Qubic Wallet Integration, the Frotn and BackEnd integratio
 - Security audits
 - Go-live preparations
 
-**Amount Unlocked:** $7,500 USD
+**Amount Unlocked:** $5,000 USD
 
 ---
 
