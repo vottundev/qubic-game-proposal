@@ -48,20 +48,22 @@ Includes:
 - Platform maintenance: $550/month for up to 100,000 users.
   - For every additional 100,000 users → 550 USD / month
   - From 1M users onwards – 10% discount – (Starting at 4,950 USD / month)
-  - 
 - Account manager for operating the game: 2.000 USD /month
 
 **Additional Services (Optional):**
 - Custom development: $87/hour.
   - Extra development: 40-hour packages (87 USD / hour) → 3,480 USD
 
-**New Users:**
+**Marketing starting pack - New Users:**
+
+We partner with network of +40 mini-apps and we can manage collaboration with other games to attract new users and grow even faster
+
+We can also managed specialized KOL campaign. We can manage Tap2Earn KOLs that spread the word in crypto communities
+
 - Budget from $5K: starting at $0.10 per user (100K+ users incoming)
 - Larger budgets ($30K+): Price can be pushed down per user
 - For bigger volumes, we’ll hook you up with API integration for better conversion
 - High Value Users/Followers : Finish complex tasks (ex. create wallet, register in app, etc.) Budget from $0.5/user
-- Join a Network of +40 Partners: We can manage collaboration with other games in our network and grow even faster
-- Specialized KOL campaign:  We can manage Tap2Earn KOLs that spread the word in crypto communities
  
 ## Milestones and Grant Distribution
 To ensure timely and structured delivery, the project is divided into the following milestones:
@@ -118,7 +120,7 @@ This phase focuses on Qubic Wallet Integration, the Frotn and BackEnd integratio
 
 This phase focuses onmanaging the game for the first three months. 
 
-- Payment of the first three months of licence (1,650 USD)
+- Payment of the first three months of licence (from 1,650 USD, depending on number of users)
 - Payment of thr first three months of Account Management (6,000 USD)
 
 **Amount Unlocked:** $7,650 USD
